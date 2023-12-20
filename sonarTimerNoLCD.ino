@@ -20,4 +20,5 @@ void Bounce() {
 
 void loop() {
   Bounce();
+  delay(500);
 }
